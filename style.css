@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo
+{
+  height: 7%;
+  width: 7%;  
+}
+.card-img-top
+{
+width: 50%;
+height: 100%;
+object-fit: contain;
+}
+.footer
+{
+  position: absolute;
+  bottom: fixed;
+  width: 100%;
+}
+.cart-image
+{
+  height: 50px;
+  width: 50px;
+}
+.product_img
+{
+  width: 10%;
+  height: 10%;
+}
